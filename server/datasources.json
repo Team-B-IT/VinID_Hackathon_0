@@ -1,0 +1,12 @@
+{
+  "mysql_01": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "loopback_test_001",
+    "password": "password",
+    "name": "mysql_01",
+    "user": "local_user_001",
+    "connector": "mysql",
+    "collation": "utf8_unicode_ci"
+  }
+}
